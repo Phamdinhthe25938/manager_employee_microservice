@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ExternalStorageConfigurationManager" enabled="true" />
+  <component name="MavenProjectsManager">
+    <option name="originalFiles">
+      <list>
+        <option value="$PROJECT_DIR$/author/pom.xml" />
+        <option value="$PROJECT_DIR$/registry/pom.xml" />
+        <option value="$PROJECT_DIR$/api_gateway/pom.xml" />
+        <option value="$PROJECT_DIR$/Author_microservice/pom.xml" />
+        <option value="$PROJECT_DIR$/common/pom.xml" />
+        <option value="$PROJECT_DIR$/Employee_Service/pom.xml" />
+        <option value="$PROJECT_DIR$/Author_service/pom.xml" />
+        <option value="$PROJECT_DIR$/employee_service/pom.xml" />
+        <option value="$PROJECT_DIR$/authorization_service/pom.xml" />
+        <option value="$PROJECT_DIR$/MI_employee_service/pom.xml" />
+        <option value="$PROJECT_DIR$/MI_authorization_service/pom.xml" />
+        <option value="$PROJECT_DIR$/MI_api_gateway_service/pom.xml" />
+        <option value="$PROJECT_DIR$/MI_common/pom.xml" />
+        <option value="$PROJECT_DIR$/MI_registry/pom.xml" />
+      </list>
+    </option>
+    <option name="ignoredFiles">
+      <set>
+        <option value="$PROJECT_DIR$/author_service/pom.xml" />
+      </set>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="corretto-11" project-jdk-type="JavaSDK" />
+</project>

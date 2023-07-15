@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding" defaultCharsetForPropertiesFiles="UTF-8">
+    <file url="file://$PROJECT_DIR$/MI_api_gateway_service/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/MI_api_gateway_service/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/MI_authorization_service/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/MI_authorization_service/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/MI_common/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/MI_common/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/MI_employee_service/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/MI_employee_service/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/MI_registry/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/MI_registry/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/api_gateway/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/api_gateway/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/author_service/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/author_service/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/common/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/common/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/employee_service/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/registry/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/registry/src/main/resources" charset="UTF-8" />
+    <file url="PROJECT" charset="UTF-8" />
+  </component>
+</project>
